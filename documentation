@@ -1,0 +1,33 @@
+node + react + graphql arch + mongo db +apollo +graphical
+
+
+server folder 
+
+
+npm init 
+npm install express 
+
+create app.js file to start 
+set up express 
+
+for dynamic changes use nodemon
+nodemon app
+
+npm install graphql
+npm install express-graphql
+npm install lodash
+
+
+testing graphql
+
+graphiql:true
+
+npm install mongoose
+
+npm install apollo-boost react-apolo graphql --save
+
+after setting up react app
+
+
+to connect fron end to graphql server 
+npm install cors --save
